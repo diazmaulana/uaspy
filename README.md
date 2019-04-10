@@ -15,7 +15,7 @@ ke local repository
 3.Install requirements yang dibutuhkan (pip install atau dari PyCharm).
 ![Screenshot (27)](https://user-images.githubusercontent.com/46736749/55854245-4a354700-5b8e-11e9-9856-7fd2bfda38c8.png)
 
-Buat class utama dengan menurunkan dari class BaseApp dengan nama App (seusikan kode
+4.Buat class utama dengan menurunkan dari class BaseApp dengan nama App (seusikan kode
 program pada main.py)
 
 sebelum
